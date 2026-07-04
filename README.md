@@ -42,6 +42,10 @@ This repository contains the evolving prototype of Attune. New features, interfa
 * Modular codebase
 * Accessibility improvements
 
+## Notice
+
+Attune is an original project currently under active development. The concepts, interface design, user experience, and creative direction are the intellectual property of Rohana Bijai. This repository is shared for portfolio and demonstration purposes.
+
 ## Author
 
 **Rohana Bijai**
